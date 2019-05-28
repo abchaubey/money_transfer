@@ -6,13 +6,9 @@ Default starts on  http://localhost:8080
 
 Run this jar to start application
 ```sh
-java -jar moneytransfer-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar revoult_money_transfer-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-or as a maven goal
 
-```sh
-mvn exec:java
-```
 ## Account API - `/accounts`
 
 **GET** - retrieves all accounts
