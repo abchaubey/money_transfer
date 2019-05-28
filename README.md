@@ -104,7 +104,7 @@ Account with account Number:5 doesn't exists.
 **Status: 404 Not Found**
 
 **/{accountNumber}/deposit/{amount}** - account Number
-**PUT** - retrieves particular account number
+**PUT** - deposit money into accountNumber
 
 Response:
 **Status: 200 OK**
@@ -119,7 +119,7 @@ Account with account Number:5 doesn't exists.
 **Status: 404 Not Found**
 
 **/{accountNumber}/withdraw/{amount}** - account Number
-**PUT** - retrieves particular account number
+**PUT** - withdraw money from accountNumber
 
 Response:
 **Status: 200 OK**
