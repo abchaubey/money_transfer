@@ -8,11 +8,7 @@ Run this jar to start application
 ```sh
 java -jar revoult_money_transfer-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-Maven :
 
-```sh
-mvn exec:java
-```
 ## Account API - `/accounts`
 
 **GET** - retrieves all accounts
